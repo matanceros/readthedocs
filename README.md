@@ -7,3 +7,6 @@ This is an *MD* doc
 ## Title2
 ### Title3
 #### Title4
+
+# 测试中文字
+中文字符能否：**粗体** *斜体*
