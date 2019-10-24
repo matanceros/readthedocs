@@ -9,6 +9,9 @@ Welcome to readthedocs's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   python/python
+   docs/test.html
 
 
 
@@ -18,3 +21,7 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+中文测试，能不能用？
+====================
+
