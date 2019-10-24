@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'readthedocs'
+project = 'Setting up RTD'
 copyright = '2019, matanceros'
 author = 'matanceros'
 
