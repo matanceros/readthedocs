@@ -1,12 +1,15 @@
 # Setting up & testing RTD on Alibaba Cloud ECS
-What works and what doesn't work
 
-This is an *MD* doc
-**Blod** *italic*
-# Title1
-## Title2
-### Title3
-#### Title4
+## Chinese PDF support
+Add the following code to conf.py
 
-# 测试中文字
-中文字符能否：**粗体** *斜体*
+```
+# -- Options for PDF output -------------------------------------------------
+
+# use xelatex to override original latex engine for CN support
+latex_engine = 'xelatex'
+latex_use_xindy = False
+latex_elements = {
+    'preamble': '\\usepackage[UTF8]{ctex}\n',
+}
+```
