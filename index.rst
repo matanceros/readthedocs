@@ -8,14 +8,9 @@ Welcome to readthedocs's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :caption: contents, bitch
    
-   intro
-   strings
-   foo
-   bar
-   python/python
-   docs/test.html
-
+   docs/main
 
 
 Indices and tables
